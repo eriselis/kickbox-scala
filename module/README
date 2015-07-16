@@ -1,0 +1,11 @@
+# Kickbox
+# ~~~~~~~
+app.email.kickbox.apiUrl="https://api.kickbox.io/v2/verify"
+app.email.kickbox.apiKey="aa45f1a5c8c88a282135d2e8f4c434f2683613a3f649ba959168c99dba9bfd76"
+app.email.kickbox.payVerificationsLimit=20
+app.email.kickbox.payVerificationsChannel="@eriselis"
+
+# Slack
+# ~~~~~~~
+app.slack.webhook="https://hooks.slack.com/services/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"
+app.slack.testUser="-test"
